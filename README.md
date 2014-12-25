@@ -5,7 +5,7 @@ yii-textmistake
 http://tarampampam.github.io/jquery.textmistake/
 
 #Install
-Copy extension to ```application.extension``` folder 
+Copy extension to ```application.extensions``` folder 
 
 #How to use
 ```php
