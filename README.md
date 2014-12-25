@@ -13,7 +13,7 @@ Copy extension to ```application.extension``` folder
 ```
 
 #Supported options
-```json
+```
 {
     'l10n': {
         'title': 'Report a typo author:',
